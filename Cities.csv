@@ -1,0 +1,12 @@
+City,canHaveSnow,Latitude,Longitude,Elevation
+Adelaide,FALSE,-34.95,138.52,2
+Brisbane,FALSE,-27.48,153.04,8
+Darwin,FALSE,-12.42,130.89,30
+Melbourne,FALSE,-37.73,144.91,78
+Sydney,FALSE,-33.86,151.21,39
+Perth,FALSE,-31.92,115.87,25
+Dallas,TRUE,32.85,-96.85,134
+Denver,TRUE,39.57,-104.85,1793
+Miami,Northern,25.81,-80.13,2
+San Francisco,Northern,37.62,-122.36,2
+Seattle,Northern,47.44,-122.31,113
