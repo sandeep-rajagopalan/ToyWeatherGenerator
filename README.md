@@ -30,7 +30,9 @@ Java Classes/Interfaces written
 
 Running the program
 -------------------
-1. The seed files need to be kept in the folder ./Seed
+1. Below seed files need to be kept in the folder ./Seed
+    a. WeatherStat.csv
+    b. Cities.csv
 2. Compile all the java files using javac
 3. Run the main program using java WeatherGenerator
 4. The output file out.txt will be generated in the root folder
